@@ -1,4 +1,4 @@
-module github.com/hyunsungK/hello-go
+module github.com/hyunsungK/go-module
 
 go 1.16
 
